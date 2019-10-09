@@ -4,6 +4,14 @@
     <bytecodeTargetLevel>
       <module name="Blockchain-task_main" target="11" />
       <module name="Blockchain-task_test" target="11" />
+      <module name="Problems-Burgers_main" target="11" />
+      <module name="Problems-Burgers_test" target="11" />
+      <module name="Problems-Laptop_factory_main" target="11" />
+      <module name="Problems-Laptop_factory_test" target="11" />
+      <module name="Problems-Phone_factory_main" target="11" />
+      <module name="Problems-Phone_factory_test" target="11" />
+      <module name="Problems-The_Range_class_main" target="11" />
+      <module name="Problems-The_Range_class_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>
